@@ -30,15 +30,19 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
- 
-<img height="150"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alparslan166&theme=transparent" />
+  <!-- Streak Card -->
+  <img height="150" width="32%"
+       src="https://streak-stats.demolab.com?user=alparslan166&theme=transparent&hide_border=true" />
 
+  <!-- Stats Card -->
+  <img height="150" width="32%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alparslan166&theme=transparent" />
 
-  <!-- Alttaki kart (dokunulmadı) -->
-  <img height="150" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent">
+  <!-- Top Languages (dokunulmadı ama genişlik ayarlandı) -->
+  <img height="150" width="32%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent" />
 </p>
+
 
 ## 🛠 Tech Stack
 
