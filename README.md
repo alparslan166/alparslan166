@@ -30,7 +30,7 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alparslan166&show_icons=true&theme=transparent">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alparslan166&show_icons=true&theme=tokyonight&hide_border=true">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent">
 </p>
 
