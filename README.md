@@ -30,13 +30,11 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
-  <!-- Stats -->
+  <!-- Düzenlenen üstteki kart -->
   <img height="150" 
-       src="https://github-readme-stats-godkingjay.vercel.app/api?username=alparslan166&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-
-  <!-- Top Languages -->
+       src="https://github-readme-stats-godkingjay.vercel.app/api?username=alparslan166&show_icons=true&hide_border=true&bg_color=00000000" />
   <img height="150" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent">
 </p>
 
 
