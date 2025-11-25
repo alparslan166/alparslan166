@@ -30,9 +30,7 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
-  <!-- Çalışan ÜST kart (transparent) -->
-  <img height="150"
-     src="https://streak-stats.demolab.com?user=alparslan166&theme=transparent&hide_border=true" />
+ 
 <img height="150"
      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alparslan166&theme=transparent" />
 
