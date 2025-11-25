@@ -30,13 +30,14 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
-  <!-- Düzenlenen üstteki kart -->
+  <!-- Çalışan ÜST kart (transparent) -->
   <img height="150" 
-       src="https://github-readme-stats-godkingjay.vercel.app/api?username=alparslan166&show_icons=true&hide_border=true&bg_color=00000000" />
+       src="https://github-readme-stats-godkingjay.vercel.app/api?username=alparslan166&show_icons=true&theme=transparent" />
+
+  <!-- Alttaki kart (dokunulmadı) -->
   <img height="150" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent">
 </p>
-
 
 
 
