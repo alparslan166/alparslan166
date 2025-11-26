@@ -61,48 +61,48 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 ---
 
 # Top Contributed Repo
-
 ## ⭐ Top Contributed Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alparslan166/su-aritma-CRM">
-        <img src="https://img.shields.io/badge/Su_Arıtma_CRM-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>
-        A full-scale CRM system for water purification services — including task management, invoicing, customer tracking, and personnel operations.
-      </p>
-    </td>
+<tr>
+<td width="50%" valign="top">
 
-    <td width="50%" valign="top">
-      <a href="https://github.com/alparslan166/omer-kaptan-restaurant">
-        <img src="https://img.shields.io/badge/Omer_Kaptan_Menu-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>
-        A complete digital restaurant menu with an admin panel, product management, and mobile-optimized user interface.
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alparslan166/trendyol-scraper">
-        <img src="https://img.shields.io/badge/Trendify-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>
-        A powerful Trendyol scraping tool that extracts product details, prices, sellers, ratings, stock, and more — fully automated.
-      </p>
-    </td>
+<a href="https://github.com/alparslan166/su-aritma-CRM">
+<img src="https://img.shields.io/badge/Su_Arıtma_CRM-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+A full-scale CRM system for water purification services — including task management, invoicing, customer tracking, and personnel operations.
 
-    <td width="50%" valign="top">
-      <a href="https://github.com/alparslan166">
-        <img src="https://img.shields.io/badge/View_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>
-        Browse all my open-source projects and contributions on GitHub.
-      </p>
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/alparslan166/omer-kaptan-restaurant">
+<img src="https://img.shields.io/badge/Omer_Kaptan_Menu-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+A complete digital restaurant menu with an admin panel, product management, and mobile-optimized user interface.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/alparslan166/trendyol-scraper">
+<img src="https://img.shields.io/badge/Trendify-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+A powerful Trendyol scraping tool that extracts product details, prices, sellers, ratings, stock, and more — fully automated.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/alparslan166">
+<img src="https://img.shields.io/badge/View_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br />
+Browse all my open-source projects and contributions on GitHub.
+
+</td>
+</tr>
 </table>
-
