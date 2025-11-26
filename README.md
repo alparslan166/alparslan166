@@ -61,14 +61,43 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 ---
 
 # Top Contributed Repo
+## ⭐ Top Contributed Repos
 
-<p align="left">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=alparslan166&repo=su-aritma-CRM&theme=transparent" />
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/alparslan166/su-aritma-CRM">
+        <img src="https://img.shields.io/badge/Su_Arıtma_CRM-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      Profesyonel bakım – görev – fatura – stok yönetimi sistemi
+    </td>
+    <td width="50%">
+      <a href="https://github.com/alparslan166/trendyol-scraper">
+        <img src="https://img.shields.io/badge/Trendyol_Scraper-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      Kategori bazlı otomatik ürün toplama aracı
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/alparslan166/spotify-youtube-transfer">
+        <img src="https://img.shields.io/badge/Spotify_→_YouTube_Transfer-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      Spotify playlistlerini YouTube Music’e aktaran sistem
+    </td>
+    <td width="50%">
+      <a href="https://github.com/alparslan166">
+        <img src="https://img.shields.io/badge/Daha_Fazla_Proje-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      Tüm projeleri görmek için profilime göz atabilirsiniz
+    </td>
+  </tr>
+</table>
 
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=alparslan166&repo=trendyol-scraper&theme=transparent" />
-</p>
 
 
 
