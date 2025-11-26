@@ -62,6 +62,7 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 
 # Top Contributed Repo
 ## ⭐ Top Contributed Repos
+## ⭐ Top Contributed Projects
 
 <table>
   <tr>
@@ -70,36 +71,33 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
         <img src="https://img.shields.io/badge/Su_Arıtma_CRM-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      Profesyonel bakım – görev – fatura – stok yönetimi sistemi
+      Professional water purification service CRM system with tasks, invoices, customer management and staff tracking.
     </td>
+
     <td width="50%">
-      <a href="https://github.com/alparslan166/trendyol-scraper">
-        <img src="https://img.shields.io/badge/Trendyol_Scraper-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/alparslan166/omer-kaptan-restaurant">
+        <img src="https://img.shields.io/badge/Omer_Kaptan_Menu-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      Kategori bazlı otomatik ürün toplama aracı
+      Full digital restaurant menu system with admin panel, category management and mobile-friendly UI.
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <a href="https://github.com/alparslan166/spotify-youtube-transfer">
-        <img src="https://img.shields.io/badge/Spotify_→_YouTube_Transfer-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/alparslan166/trendyol-scraper">
+        <img src="https://img.shields.io/badge/Trendify-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      Spotify playlistlerini YouTube Music’e aktaran sistem
+      Automated product scraping tool for Trendyol with price, ratings, seller info and category-based extraction.
     </td>
+
     <td width="50%">
       <a href="https://github.com/alparslan166">
-        <img src="https://img.shields.io/badge/Daha_Fazla_Proje-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      Tüm projeleri görmek için profilime göz atabilirsiniz
+      Explore more projects on my GitHub profile.
     </td>
   </tr>
 </table>
-
-
-
-
-
-
