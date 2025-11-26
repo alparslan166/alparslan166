@@ -61,44 +61,48 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 ---
 
 # Top Contributed Repo
-## ⭐ Top Contributed Repos
-## ⭐ Top Contributed Projects
+
 ## ⭐ Top Contributed Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/alparslan166/su-aritma-CRM">
-        <img src="https://img.shields.io/badge/Su_Arıtma_CRM-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Su_Arıtma_CRM-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      Professional water purification service CRM system with tasks, invoices, customer management and staff tracking.
+      <p>
+        A full-scale CRM system for water purification services — including task management, invoicing, customer tracking, and personnel operations.
+      </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/alparslan166/omer-kaptan-restaurant">
-        <img src="https://img.shields.io/badge/Omer_Kaptan_Menu-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Omer_Kaptan_Menu-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      Full digital restaurant menu system with admin panel, category management and mobile-friendly UI.
+      <p>
+        A complete digital restaurant menu with an admin panel, product management, and mobile-optimized user interface.
+      </p>
     </td>
   </tr>
-
+  
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/alparslan166/trendyol-scraper">
-        <img src="https://img.shields.io/badge/Trendify-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trendify-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      Automated product scraping tool for Trendyol with price, ratings, seller info and category-based extraction.
+      <p>
+        A powerful Trendyol scraping tool that extracts product details, prices, sellers, ratings, stock, and more — fully automated.
+      </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/alparslan166">
-        <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      Explore more projects on my GitHub profile.
+      <p>
+        Browse all my open-source projects and contributions on GitHub.
+      </p>
     </td>
   </tr>
 </table>
+
