@@ -30,15 +30,15 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 # GitHub Stats:
 
 <p align="left">
+  <!-- Stats -->
   <img height="150" style="display:inline-block; vertical-align:top;" 
-       src="https://streak-stats.demolab.com?user=alparslan166&theme=transparent&hide_border=true" />
-
-  <img height="150" style="display:inline-block; margin-left:10px; vertical-align:top;" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alparslan166&theme=transparent" />
 
+  <!-- Top Languages -->
   <img height="150" style="display:inline-block; margin-left:10px; vertical-align:top;" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent" />
 </p>
+
 
 
 
