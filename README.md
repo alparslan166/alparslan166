@@ -28,12 +28,11 @@ Linux (Ubuntu, Arch, macOS), Docker, Nginx, PM2, AWS S3, Cloudflare
 ---
 
 # GitHub Stats:
-
 <p align="left">
-  <img height="130" 
+  <img height="140" width="40%" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alparslan166&theme=transparent" />
 
-  <img height="130" 
+  <img height="140" width="40%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslan166&layout=compact&theme=transparent" />
 </p>
 
